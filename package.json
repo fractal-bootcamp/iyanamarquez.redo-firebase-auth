@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "ts-node": "^10.9.2"
+  },
+  "name": "auth2",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "type": "module",
+  "module": "commonjs",
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
